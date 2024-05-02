@@ -1,5 +1,5 @@
 # 8-puzzle-solver
-Using state space search method, and heuristic function based on number and degree of displaced positions
+Using state space search method, and heuristic function based on qunatity and degree of displaced positions
 capable of solving most complex permutations with 31 optimal moves to solve
 
 input puzzle permutation as '012345678' =                                                                                                                                                                        |0 1 2|
